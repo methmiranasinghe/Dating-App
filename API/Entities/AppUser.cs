@@ -9,5 +9,9 @@ namespace API.Entities
     {
         public int Id{get;  set;}
         public String UserName { get; set; } =default!;
+
+        public byte[] PasswordHash{get; set;} =default!;
+
+        public byte[] PasswordSalt {get; set;} =default!;
     }
 }

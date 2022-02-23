@@ -1,5 +1,4 @@
 D:\Courses\Dating App ASP\Dating-App\API\bin\Debug\net6.0\appsettings.Development.json
-D:\Courses\Dating App ASP\Dating-App\API\bin\Debug\net6.0\appsettings.json
 D:\Courses\Dating App ASP\Dating-App\API\bin\Debug\net6.0\API.exe
 D:\Courses\Dating App ASP\Dating-App\API\bin\Debug\net6.0\API.deps.json
 D:\Courses\Dating App ASP\Dating-App\API\bin\Debug\net6.0\API.runtimeconfig.json
