@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj": {}
+    "d:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj": {
+    "d:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj",
+        "projectUniqueName": "d:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj",
+        "projectPath": "d:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\methm\\.nuget\\packages\\",
-        "outputPath": "D:\\Courses\\Dating App ASP\\Dating-App\\API\\obj\\",
+        "outputPath": "d:\\Courses\\Dating App ASP\\Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\methm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
