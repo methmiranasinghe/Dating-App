@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj": {}
+    "D:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "d:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj": {
+    "D:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj",
+        "projectUniqueName": "D:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "d:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj",
+        "projectPath": "D:\\Courses\\Dating App ASP\\Dating-App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\methm\\.nuget\\packages\\",
-        "outputPath": "d:\\Courses\\Dating App ASP\\Dating-App\\API\\obj\\",
+        "outputPath": "D:\\Courses\\Dating App ASP\\Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\methm\\AppData\\Roaming\\NuGet\\NuGet.Config"
